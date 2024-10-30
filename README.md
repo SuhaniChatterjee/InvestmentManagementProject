@@ -1,1 +1,3 @@
 # InvestmentManagementProject
+
+author: Suhani Chatterjee
